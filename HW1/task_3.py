@@ -1,0 +1,5 @@
+cif = input('Введите число: ')
+chis100 = int(cif*3)
+chis10 = int(cif*2)
+chis = int(cif)
+print(chis100+chis10+chis)
