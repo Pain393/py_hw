@@ -1,1 +1,1 @@
-# Python homework
+# Python code
